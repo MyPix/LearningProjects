@@ -1,6 +1,5 @@
-print:Hello, World ! &n;
-print:Enter something : ;
+print:Testing my fucking basic interpreter &nGO ! Enter something ! &n-->;
+sleepms:555;
 getline+sprint;
-print:Fine ! Now Sleep a bit &n;
-sleepms:1245
-print:Good ! &n;
+write% %input% @ mike.txt;
+write% Swaggy Doode @ mark.txt;
