@@ -7,7 +7,7 @@ Basic char-char reading of a line
 Instructions can be found in the main.cpp and in tk.storm
 
 
-Basic interpreter
+Basic file
 ----
 - print:Testing my fucking basic interpreter &nGO ! Enter something ! &n-->;
 - sleepms:555;
@@ -15,7 +15,7 @@ Basic interpreter
 - write% %input% @ mike.txt;
 - write% Dude, it's magic ! @ mark.txt;
 
-Doc
+Doc/Args
 ---
 - print: -> Printing something in console, use &n to make a new line (\n)
 - sleepms:(time ms); -> Sleeping for a time in milliseconds
