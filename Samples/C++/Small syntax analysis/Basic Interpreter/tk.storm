@@ -1,0 +1,6 @@
+print:Hello, World ! &n;
+print:Enter something : ;
+getline+sprint;
+print:Fine ! Now Sleep a bit &n;
+sleepms:1245
+print:Good ! &n;
