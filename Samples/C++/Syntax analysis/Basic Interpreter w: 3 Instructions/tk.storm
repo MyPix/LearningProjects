@@ -1,5 +1,10 @@
-print:Testing my fucking basic interpreter &nGO ! Enter something ! &n-->;
+print:Testing my fucking basic interpreter &nGO ! Enter something ! &n-->; &// Cool, isnt it ?
 sleepms:555;
 getline+sprint;
 write% %input% @ mike.txt;
 write% Swaggy Doode @ mark.txt;
+sleepms:500;
+print: Wrote in mark.txt: &n ;
+print: %file:mark.txt;
+print: You wrote in mike.txt : &n;
+print: %file:mike.txt;
